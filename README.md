@@ -17,3 +17,12 @@ This project demonstrates manual QA testing of the SauceDemo web application. It
 - Logout functionality
 - Reset app state
 - Exploratory testing using different SauceDemo user accounts
+
+## Test Execution Summary
+
+- Total Test Cases: 32
+- Passed: 32
+- Failed: 0
+- Bugs Found During Exploratory Testing: 5
+- Testing Type: Manual Functional Testing
+- Overall Status: Completed
