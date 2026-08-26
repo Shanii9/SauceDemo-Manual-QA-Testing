@@ -1,9 +1,0 @@
-Project Name,,,,,,
-SauceDemo QA Testing Project,,,,,,
-,,,,,,
-Application Tested,Total Test Cases,Passed,Failed,Bugs Found,Testing Type,Overall Status
-SauceDemo,32,32,0,5,Manual Functional Testing,Completed
-,,,,,,
-,,,,,,
-Summary:,,,,,,
-"Manual functional testing was performed on the SauceDemo web application. A total of 32 test cases were executed covering login, product listing, sorting, cart, checkout, navigation, and logout functionality. All 32 planned test cases passed. During additional exploratory testing with problem_user and error_user accounts, 5 defects were identified and documented separately in the Bug Reports sheet.",,,,,,
