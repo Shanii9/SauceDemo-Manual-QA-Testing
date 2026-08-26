@@ -26,3 +26,34 @@ This project demonstrates manual QA testing of the SauceDemo web application. It
 - Bugs Found During Exploratory Testing: 5
 - Testing Type: Manual Functional Testing
 - Overall Status: Completed
+## Bugs Identified
+
+During exploratory testing, 5 defects were documented:
+
+- Incorrect product images displayed for `problem_user`
+- Product page showing `ITEM NOT FOUND` and incorrect product information
+- Wrong product details displayed when opening Sauce Labs Backpack
+- Add to Cart button unresponsive for multiple products using `error_user`
+- Price sorting failure using `error_user`
+
+## Tools Used
+
+- SauceDemo Web Application
+- Google Sheets
+- GitHub
+
+## Project Files
+
+- `Test_Cases.csv` – 32 documented manual test cases
+- `Bug_Reports.csv` – 5 documented defects
+- `Test_Summary.csv` – overall test execution summary
+
+## Skills Demonstrated
+
+- Manual Functional Testing
+- Test Case Design and Execution
+- Positive and Negative Testing
+- Exploratory Testing
+- Bug Reporting
+- Severity and Priority Classification
+- SDLC/STLC Fundamentals
